@@ -1,0 +1,23 @@
+
+			(Text)				
+
+HTML Tutorials: https://www.w3schools.com/html/default.asp
+
+CSS Tutorials: https://www.w3schools.com/css/default.asp
+
+Javascript Tutorials: https://www.w3schools.com/js/default.asp
+
+PHP Tutorials: https://www.w3schools.com/php/default.asp
+
+
+
+			(Video)
+
+
+HTML Tutorials: https://www.youtube.com/watch?v=HcOc7P5BMi4
+
+CSS Tutorials: https://www.youtube.com/watch?v=Edsxf_NBFrw
+
+Javascript Tutorials: https://www.youtube.com/watch?v=hKB-YGF14SY
+
+PHP Tutorials: https://www.youtube.com/watch?v=EJWw1bd0-C0
