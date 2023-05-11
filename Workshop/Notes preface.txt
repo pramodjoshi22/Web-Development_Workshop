@@ -1,0 +1,29 @@
+How the data travel between server and client.
+types to websites: static and dynamic
+why we use websites
+languges: programmin language and scriptting language
+SEO optimization
+analysizing tools : google analyzer
+What is domain and hosting
+Javascript, JSON and JQuery
+Frontend:
+ HTML CSS JAVASCRIPT REACT.JS
+
+Backend:
+javaScript, MySQL.
+
+// to install: 
+// i. nodejs
+// ii. mysql with mysql workbench.
+
+type of variables;
+types of functions;
+
+
+10:00-11:20 html css
+11:20-11:30 break
+11:30-12:00 springboot
+12:00-12:20 javascript 
+12:20-1:00 react
+02:00-3:00 node + mysql
+03:00-04:00 open discussion
